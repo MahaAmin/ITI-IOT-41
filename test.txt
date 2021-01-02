@@ -13,3 +13,4 @@ commit 1 after ff merge
 commit 2 after ff merge
 
 commit 1 on f2
+commit 2 on f2
