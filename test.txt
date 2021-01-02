@@ -9,4 +9,6 @@ commit 3 from f1
 new commit 1 in master branch
 new commit 2 in master branch
 new commit 3 in master branch
+commit 1 after ff merge
+commit 2 after ff merge
 
