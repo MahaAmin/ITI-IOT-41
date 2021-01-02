@@ -12,3 +12,4 @@ new commit 3 in master branch
 commit 1 after ff merge
 commit 2 after ff merge
 
+commit 1 on f2
