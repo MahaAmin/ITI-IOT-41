@@ -7,3 +7,4 @@ commit from f1
 commit 2 from f1
 commit 3 from f1
 commit 1 after ff merge
+commit 2 after ff merge
